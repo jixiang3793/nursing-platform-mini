@@ -1,0 +1,29 @@
+.list {
+    padding: 1em;
+    padding-bottom: 3rem;
+}
+.font-1h {
+    font-size: 1.5rem;
+}
+.m-item-category {
+    margin-top: 0.6rem;
+}
+.fix-bottom-10 {
+    position: fixed;
+    bottom: 0;
+    padding: 0.4rem;
+    background-color: white;
+    width: calc(100% - 0.8rem);
+    left: 0;
+}
+.btn-max-w {
+    width: 10rem;
+    display: inline-block;
+}
+.my-1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.min-h-10 {
+    min-height: 15rem;
+}

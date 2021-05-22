@@ -1,0 +1,23 @@
+{
+	"miniprogramRoot": "./dist",
+	"projectname": "nursing-platform-mini",
+	"description": "护工平台小程序",
+	"appid": "wx23b08b08e2042b7c",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": false,
+		"scopeDataCheck": false,
+		"useCompilerModule": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
